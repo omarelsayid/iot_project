@@ -3,11 +3,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:iot_project/firebase_options.dart';
-import 'package:iot_project/screens/main_screen.dart';
-import 'package:iot_project/screens/profile_screen.dart';
-import 'package:iot_project/screens/authentication_screens/register_screen.dart';
 import 'package:iot_project/screens/splash_sccren/splash_screen.dart';
-import 'package:iot_project/screens/user_data.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

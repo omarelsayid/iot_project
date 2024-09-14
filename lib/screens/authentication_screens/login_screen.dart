@@ -1,11 +1,10 @@
 import 'dart:developer';
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:iot_project/screens/authentication_screens/register_screen.dart';
 import 'package:iot_project/screens/main_screen.dart';
-import 'package:iot_project/screens/profile_screen.dart';
+
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
